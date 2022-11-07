@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c511f67-f82e-4fae-91b0-7255e61ed3f0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-query-todos/src/components/TaskEdit.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-query-todos/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-query-todos/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-query-todos/src/components/MainTask.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-query-todos/src/components/MainTask.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-query-todos/src/components/TaskItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-query-todos/src/components/TaskItem.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-query-todos/src/components/TaskLIst.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-query-todos/src/components/TaskLIst.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-query-todos/src/hooks/useMutateTag.ts" beforeDir="false" afterPath="$PROJECT_DIR$/react-query-todos/src/hooks/useMutateTag.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-query-todos/src/hooks/useQueryTags.ts" beforeDir="false" afterPath="$PROJECT_DIR$/react-query-todos/src/hooks/useQueryTags.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo-api/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/todo-api/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

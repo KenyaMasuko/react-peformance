@@ -24,7 +24,7 @@ export const useMutateTag = () => {
 
   const updateTagMutation = useMutation(
     (tag: Tag) =>
-      axios.put<Tag>(`${process.env.REACT_APP_REST_URL}/tags/${tag.id}/`),
+      axios.put<Tag>(`${process.env.REACT_APP_REST_URL}/tags/${tag.id}/`, tag),
     {
       onSuccess: (res, variables) => {
         const prevTags = queryClient.getQueryData<Tag[]>(['tags'])

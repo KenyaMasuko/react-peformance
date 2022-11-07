@@ -47,4 +47,4 @@ export const TaskItem: FC<Props> = ({ task }) => {
     </li>
   )
 }
-// export const TaskItemMemo = memo(TaskItem)
+export const TaskItemMemo = memo(TaskItem)
